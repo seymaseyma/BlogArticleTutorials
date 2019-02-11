@@ -11,6 +11,10 @@ https://serifgungor.com adresinde bulunan, blog makaleleri kaynak kodlarının p
 **[RecyclerView_SearchViewKullanimi.zip (İleri Android)](https://github.com/serifgungor/BlogArticleTutorials/blob/master/RecyclerView_SearchViewKullanimi.zip)**
 - https://serifgungor.com/blogs/245-recyclerview-searchview-ile-kullanimi
 
+**[RecyclerView_StaggeredGridView.zip (İleri Android)](https://github.com/serifgungor/BlogArticleTutorials/blob/master/RecyclerView_StaggeredGridView.zip)**
+- https://serifgungor.com/blogs/244-recyclerview-staggeredgridview-kullanimi
+
+
 
 ## Android
 
