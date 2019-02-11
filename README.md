@@ -14,6 +14,8 @@ https://serifgungor.com adresinde bulunan, blog makaleleri kaynak kodlarının p
 **[RecyclerView_StaggeredGridView.zip (İleri Android)](https://github.com/serifgungor/BlogArticleTutorials/blob/master/RecyclerView_StaggeredGridView.zip)**
 - https://serifgungor.com/blogs/244-recyclerview-staggeredgridview-kullanimi
 
+**[RecyclerView_HorizontalScroll.zip (İleri Android)](https://github.com/serifgungor/BlogArticleTutorials/blob/master/RecyclerView_HorizontalScroll.zip)**
+- https://serifgungor.com/blogs/243-recyclerview-horizontal-scroll-kullanimi
 
 
 ## Android
