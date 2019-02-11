@@ -12,3 +12,6 @@ https://serifgungor.com adresinde bulunan, blog makaleleri kaynak kodlarının p
 
 **[SensorManagerKullanimi.zip](https://github.com/serifgungor/BlogArticleTutorials/blob/master/SensorManagerKullanimi.zip)**
 - https://serifgungor.com/blogs/251-android-sensormanager-kullanimi
+
+**[AlarmManagerKullanimi.zip](https://github.com/serifgungor/BlogArticleTutorials/blob/master/AlarmManagerKullanimi.zip)**
+- https://serifgungor.com/blogs/249-android-alarm-manager-kullanimi
