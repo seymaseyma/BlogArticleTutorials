@@ -35,4 +35,5 @@ https://serifgungor.com adresinde bulunan, blog makaleleri kaynak kodlarının p
 **[ImageView_ZoomAnimationOrnegi.zip](https://github.com/serifgungor/BlogArticleTutorials/blob/master/ImageView_ZoomAnimationOrnegi.zip)**
 - https://serifgungor.com/blogs/238-android-imageview-zoom-animation-ornegi
 
-
+**[NightThemeOlusturmak.zip](https://github.com/serifgungor/BlogArticleTutorials/blob/master/NightThemeOlusturmak.zip)**
+- https://serifgungor.com/blogs/237-android-night-theme-olusturmak
