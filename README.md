@@ -5,3 +5,6 @@ https://serifgungor.com adresinde bulunan, blog makaleleri kaynak kodlarının p
 
 **[Android_URL_Bitmap_Kullanimi_2.zip](https://github.com/serifgungor/BlogArticleTutorials/blob/master/Android_URL_Bitmap_Kullanimi_2.zip)**
 - https://serifgungor.com/blogs/252-android-url-bitmap-kullanimi
+
+**[SensorManagerKullanimi.zip](https://github.com/serifgungor/BlogArticleTutorials/blob/master/SensorManagerKullanimi.zip)**
+- https://serifgungor.com/blogs/251-android-sensormanager-kullanimi
