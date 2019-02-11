@@ -8,6 +8,10 @@ https://serifgungor.com adresinde bulunan, blog makaleleri kaynak kodlarının p
 **[RecyclerView_MultipleViewHolder.zip (İleri Android)](https://github.com/serifgungor/BlogArticleTutorials/blob/master/RecyclerView_MultipleViewHolder.zip)**
 - https://serifgungor.com/blogs/246-recyclerview-multiple-viewholder-kullanimi
 
+**[RecyclerView_SearchViewKullanimi.zip (İleri Android)](https://github.com/serifgungor/BlogArticleTutorials/blob/master/RecyclerView_SearchViewKullanimi.zip)**
+- https://serifgungor.com/blogs/245-recyclerview-searchview-ile-kullanimi
+
+
 ## Android
 
 **[Android_URL_Bitmap_Kullanimi_2.zip](https://github.com/serifgungor/BlogArticleTutorials/blob/master/Android_URL_Bitmap_Kullanimi_2.zip)**
