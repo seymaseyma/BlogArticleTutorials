@@ -1,5 +1,6 @@
 # BlogArticleTutorials
-https://serifgungor.com Blog Article Source Codes
+https://serifgungor.com Blog Makalesi Kaynak Kodları
+Not: Bu repo kalıcıdır. Hiçbir şekilde makale silinmediği yada güncelleme olmadığı sürece kaynaklarda silinme olmayacaktır.
 
 ## Android
 
