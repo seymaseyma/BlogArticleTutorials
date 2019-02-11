@@ -2,6 +2,8 @@
 https://serifgungor.com adresinde bulunan, blog makaleleri kaynak kodlarının paylaşıldığı repodur. Hiçbir şekilde makale silinmediği yada güncelleme olmadığı sürece kaynaklarda silinme olmayacaktır.
 
 ## Android(Adapter)
+**[ListActivityKullanimi.zip](https://github.com/serifgungor/BlogArticleTutorials/blob/master/ListActivityKullanimi.zip)**
+- https://serifgungor.com/blogs/250-android-listactivity-kullanimi
 
 ## Android
 
