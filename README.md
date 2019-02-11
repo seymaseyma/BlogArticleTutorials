@@ -2,9 +2,10 @@
 https://serifgungor.com adresinde bulunan, blog makaleleri kaynak kodlarının paylaşıldığı repodur. Hiçbir şekilde makale silinmediği yada güncelleme olmadığı sürece kaynaklarda silinme olmayacaktır.
 
 ## Android(Adapter)
-**[ListActivityKullanimi.zip](https://github.com/serifgungor/BlogArticleTutorials/blob/master/ListActivityKullanimi.zip)**
+**[ListActivityKullanimi.zip (Temel Adapter Kullanımı)](https://github.com/serifgungor/BlogArticleTutorials/blob/master/ListActivityKullanimi.zip)**
 - https://serifgungor.com/blogs/250-android-listactivity-kullanimi
-**[RecyclerView_MultipleViewHolder.zip](https://github.com/serifgungor/BlogArticleTutorials/blob/master/RecyclerView_MultipleViewHolder.zip)**
+
+**[RecyclerView_MultipleViewHolder.zip (İleri Android)](https://github.com/serifgungor/BlogArticleTutorials/blob/master/RecyclerView_MultipleViewHolder.zip)**
 - https://serifgungor.com/blogs/246-recyclerview-multiple-viewholder-kullanimi
 
 ## Android
