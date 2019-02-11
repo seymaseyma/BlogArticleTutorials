@@ -31,3 +31,8 @@ https://serifgungor.com adresinde bulunan, blog makaleleri kaynak kodlarının p
 
 **[AlarmManagerKullanimi.zip](https://github.com/serifgungor/BlogArticleTutorials/blob/master/AlarmManagerKullanimi.zip)**
 - https://serifgungor.com/blogs/249-android-alarm-manager-kullanimi
+
+**[ImageView_ZoomAnimationOrnegi.zip](https://github.com/serifgungor/BlogArticleTutorials/blob/master/ImageView_ZoomAnimationOrnegi.zip)**
+- https://serifgungor.com/blogs/238-android-imageview-zoom-animation-ornegi
+
+
