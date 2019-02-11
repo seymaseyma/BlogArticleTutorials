@@ -17,6 +17,9 @@ https://serifgungor.com adresinde bulunan, blog makaleleri kaynak kodlarının p
 **[RecyclerView_HorizontalScroll.zip (İleri Android)](https://github.com/serifgungor/BlogArticleTutorials/blob/master/RecyclerView_HorizontalScroll.zip)**
 - https://serifgungor.com/blogs/243-recyclerview-horizontal-scroll-kullanimi
 
+**[RetrofitRestfulApi_GSON.zip (İleri Android)](https://github.com/serifgungor/BlogArticleTutorials/blob/master/RetrofitRestfulApi_GSON.zip)**
+- https://serifgungor.com/blogs/240-android-retrofit-restful-api-ve-gson-kullanimi
+
 
 ## Android
 
