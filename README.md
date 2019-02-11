@@ -1,4 +1,4 @@
-# BlogArticleTutorials
+# serifgungor.com - Blog Makalesi Kaynakları
 https://serifgungor.com adresinde bulunan, blog makaleleri kaynak kodlarının paylaşıldığı repodur. Hiçbir şekilde makale silinmediği yada güncelleme olmadığı sürece kaynaklarda silinme olmayacaktır.
 
 ## Android
