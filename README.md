@@ -1,6 +1,8 @@
 # serifgungor.com - Blog Makalesi Kaynakları
 https://serifgungor.com adresinde bulunan, blog makaleleri kaynak kodlarının paylaşıldığı repodur. Hiçbir şekilde makale silinmediği yada güncelleme olmadığı sürece kaynaklarda silinme olmayacaktır.
 
+## Android(Adapter)
+
 ## Android
 
 **[Android_URL_Bitmap_Kullanimi_2.zip](https://github.com/serifgungor/BlogArticleTutorials/blob/master/Android_URL_Bitmap_Kullanimi_2.zip)**
