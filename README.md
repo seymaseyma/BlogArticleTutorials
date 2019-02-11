@@ -4,6 +4,8 @@ https://serifgungor.com adresinde bulunan, blog makaleleri kaynak kodlarının p
 ## Android(Adapter)
 **[ListActivityKullanimi.zip](https://github.com/serifgungor/BlogArticleTutorials/blob/master/ListActivityKullanimi.zip)**
 - https://serifgungor.com/blogs/250-android-listactivity-kullanimi
+**[RecyclerView_MultipleViewHolder.zip](https://github.com/serifgungor/BlogArticleTutorials/blob/master/RecyclerView_MultipleViewHolder.zip)**
+- https://serifgungor.com/blogs/246-recyclerview-multiple-viewholder-kullanimi
 
 ## Android
 
